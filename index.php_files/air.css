@@ -1,0 +1,56 @@
+.title
+{
+	float: left;
+	line-height: 11px;
+	margin: 10px 0px 3px 0px;
+	clear: both;
+	display: inline;
+	width: 100%;
+}
+.head
+{
+	background-color: #005599;
+	text-align: center;
+	font-size: 11px;
+	font-family: sans-serif;
+	font-weight:bold;
+	color: #99ccff;
+}
+
+.pict{
+	vertical-align:middle;
+	text-align:center;
+}
+
+.foot
+{
+	background-color: #005599;
+	text-align: right;
+	font-size: 11px;
+	font-family: sans-serif;
+	color: #99ccff;
+	font-style: italic;
+}
+
+A
+{
+	cursor: pointer;
+	font-size: 11px;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #ccccff;
+}
+
+A:hover
+{
+	text-transform=none: ;
+	color: #9999cc;
+}
+
+TD
+{
+	font-size: 12px;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+}
